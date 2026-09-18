@@ -28,7 +28,10 @@ A 3D endless runner game inspired by Lord Ganesha's Mooshak.
 - CSS
 - JavaScript
 - Three.js
+  
+## 🎮 Gameplay
 
+![Mooshak Run Gameplay](mooshak-run-gameplay.jpeg)
 ## 🙏 Inspiration
 
 The game is inspired by Lord Ganesha's Mooshak and Indian mythology.
